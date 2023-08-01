@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "8DCA9C78B3D92162F70BFE964923CCFF",
+  "keywordClasses": [
+    {
+      "name": "com.test.mobile.wattpad.LoginWattpadObject",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

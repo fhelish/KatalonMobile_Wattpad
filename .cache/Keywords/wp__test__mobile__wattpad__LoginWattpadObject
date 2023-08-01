@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "B1C9EE4408D6E301354432009AE47A87",
+  "keywordClasses": [
+    {
+      "name": "wp.test.mobile.wattpad.LoginWattpadObject",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

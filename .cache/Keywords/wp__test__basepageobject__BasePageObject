@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "87F1137122CBD94C4D3D8B3E0911EDB8",
+  "keywordClasses": [
+    {
+      "name": "wp.test.basepageobject.BasePageObject",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

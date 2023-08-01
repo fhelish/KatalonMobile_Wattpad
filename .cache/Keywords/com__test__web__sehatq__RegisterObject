@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "E3DAF73779E6DBA8F10E01E9D7B69DCC",
+  "keywordClasses": [
+    {
+      "name": "com.test.web.sehatq.RegisterObject",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
